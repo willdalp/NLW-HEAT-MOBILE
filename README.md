@@ -3,9 +3,8 @@ Estou participando da NLW HEAT da RocketSeat. O projeto é um cartão de visita 
 
 # Habilidades aprendidas
 * como criar variáveis e utilizar para colocar as cores de forma mais prática
-* Como melhor o código deixando mais limpo
+* Como melhorar o código deixando mais limpo
 * Algumas tags novas no HTMl e funções no CSS
 * Estruturar do zero um layout de UI/UX
-* como pegar tags de primeiro nível no CSS
 * Como utilizar DOM
 * APIS e JSON
